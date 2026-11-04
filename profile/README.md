@@ -1,6 +1,6 @@
 # Munito AI
 
-**Open-model inference infrastructure for Europe.**
+**Open-model inference infrastructure for Europe, private by default.**
 
 Munito AI runs the models, the document pipeline and the compute that an AI product is built on. One API and one
 key reach all three, and your workspace keeps inference and storage in the EU.
